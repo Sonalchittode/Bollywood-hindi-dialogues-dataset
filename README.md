@@ -1,3 +1,6 @@
+DataSet Link for download : https://www.kaggle.com/datasets/sonalchittode/indian-hindi-movies-dialogues
+
+
 About Dataset
 
 Indian Hindi Movies Dialogues is a comprehensive collection of iconic, memorable, and notable dialogues from Hindi-language Bollywood movies.
@@ -12,6 +15,7 @@ The dataset contains information such as:
 💬 Dialogue — Dialogue spoken in the movie
 📅 Movie/Release information — Where available
 🔗 Source/Reference — Where applicable
+
 🚀 Possible Use Cases
 
 This dataset can be used for:
